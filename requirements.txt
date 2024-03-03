@@ -7,3 +7,4 @@ faiss-cpu
 streamlit
 langchain-fireworks
 einops
+lanchain_together
